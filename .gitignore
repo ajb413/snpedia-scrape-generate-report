@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+report.html
+Dna_Raw_Data_report.txt
+all-snps.json
+my-snpedia-data.json

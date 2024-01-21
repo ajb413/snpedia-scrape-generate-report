@@ -1,0 +1,11 @@
+#Example of the DNA report file format
+#Assuming all forward (+) strand
+rsid	Chromosome	position	Allele1	Allele2
+rs12345678	3 9876543	C	C
+rs12345678	3	987654	G	A
+rs1234567	X	9876543	G	
+rs123456789	6	98765433	-	-
+rs123456789	X	9876543	T	
+rs12345678	6	98765430	-	C
+rs123456789	X	98765437	A	G
+rs123456789	10	987654	C	C
